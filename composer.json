@@ -1,0 +1,13 @@
+{
+    "name": "simpleinvoices2/simpleinvoices-isocodes",
+    "description": " ",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "SimpleInvoices\\ISOCodes\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^5.5 || ^7.0"
+    }
+}
